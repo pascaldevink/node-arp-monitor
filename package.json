@@ -4,6 +4,7 @@
   "author": "Pascal de Vink <pascal.de.vink@gmail.com>",
   "license": "MIT",
   "version": "0.1.0",
+  "main": "arp-monitor.js",
   "dependencies": {
     "debug": "^2.1.3",
     "iotdb-arp": "^0.0.3",
