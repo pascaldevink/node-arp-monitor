@@ -3,7 +3,7 @@
   "description": "Monitors the ARP table and notifies of changes.",
   "author": "Pascal de Vink <pascal.de.vink@gmail.com>",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "arp-monitor.js",
   "dependencies": {
     "debug": "^2.1.3",
