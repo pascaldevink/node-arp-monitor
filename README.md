@@ -7,7 +7,7 @@ Uses the iotdb-arp package to find the nodes. Heavily inspired by the network-to
 Example
 =======
 
-```
+```js
 var arpMonitor = new ArpMonitor();
 
 arpMonitor.on("in", function(node) {
