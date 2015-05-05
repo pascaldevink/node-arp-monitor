@@ -1,0 +1,12 @@
+{
+  "name": "arp-monitor",
+  "description": "Monitors the ARP table and notifies of changes.",
+  "author": "Pascal de Vink <pascal.de.vink@gmail.com>",
+  "license": "MIT",
+  "version": "0.1.0",
+  "dependencies": {
+    "debug": "^2.1.3",
+    "iotdb-arp": "^0.0.3",
+    "macvendor": "^0.1.1"
+  }
+}
